@@ -1,10 +1,10 @@
 # Resources for the AWS Certified Solutions Architect Study Guide
 
-## Book Resources
+## AWS CLI commands and files for exercises
 
-### [Chapter 4 AWS CLI commands for exercises](https://github.com/benpiper/aws-csaa/tree/3rd-edition/c04)
+### [Chapter 4](https://github.com/benpiper/aws-csaa/tree/3rd-edition/c04)
 
-### [CloudFormation templates](https://github.com/benpiper/aws-csaa/tree/3rd-edition/CloudFormation)
+### [Chapter 14](https://github.com/benpiper/aws-csaa/tree/3rd-edition/c14)
 
 ## Updates
 
