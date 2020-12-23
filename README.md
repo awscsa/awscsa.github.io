@@ -12,4 +12,6 @@ There are no updates at this time.
 
 ## Errata
 
-To repoort errata, please [create an issue here](https://github.com/awscsa/awscsa.github.io/issues/new/choose).
+[All errata can be found here.](https://github.com/awscsa/awscsa.github.io/issues)
+
+To repoort errata, please [create an issue here](https://github.com/awscsa/awscsa.github.io/issues/new?assignees=&labels=&template=issue--errata-template.md&title=Report+errata).
