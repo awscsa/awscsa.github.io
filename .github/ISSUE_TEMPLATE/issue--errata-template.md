@@ -1,7 +1,7 @@
 ---
-name: 'Issue: Errata Template'
+name: 'Errata Template'
 about: "[Errata]"
-title: Report errata
+title: Chapter where the error appears
 labels: ''
 assignees: ''
 
